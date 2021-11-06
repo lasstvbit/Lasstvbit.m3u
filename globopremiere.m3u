@@ -277,3 +277,5 @@ https://live-cm-aq-19-39.video.globo.com/nu/globo-rj/globo-rj-audio_1=96000-vide
 https://live-cm-al-14-36.video.globo.com/d/s/hls-pfc1/hls-pfc1_3539/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8723549258a42a5f239e16317cee4371.webp" group-title="Canais | Noticias",Bloomberg TV
 https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/9178b047-c2fc-440b-b632-a763a8bcfe01:SCL/variant/d387e9b267c167aec0a967547f08fc5d/bandwidth/1500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/274cc93fe150f046c1d083edaac1a60f.webp" group-title="Canais | Infantil",3Abnkids tv
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
