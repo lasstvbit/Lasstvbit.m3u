@@ -281,3 +281,5 @@ https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/9178b04
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/96/e0/e1/96e0e11fe9db380aa7edbc90bd68aded.jpg" group-title="Canais | Esportes",Sportv
 https://live-cm-aq-21-39.video.globo.com/d/nl/s/hls-spo124ha-praca/hls-spo124ha-praca_3539/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/96/e0/e1/96e0e11fe9db380aa7edbc90bd68aded.jpg" group-title="Canais | Esportes",Sportv
+https://live-cm-aq-21-39.video.globo.com/d/nl/s/hls-spo124ha-praca/hls-spo124ha-praca_2359/playlist.m3u8
