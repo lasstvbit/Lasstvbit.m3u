@@ -283,3 +283,5 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 https://live-cm-aq-21-39.video.globo.com/d/nl/s/hls-spo124ha-praca/hls-spo124ha-praca_3539/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/96/e0/e1/96e0e11fe9db380aa7edbc90bd68aded.jpg" group-title="Canais | Esportes",Sportv
 https://live-cm-aq-21-39.video.globo.com/d/nl/s/hls-spo124ha-praca/hls-spo124ha-praca_2359/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere-590x2951.jpg" group-title="Canais | Esportes",Premier fc
+chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#https://live-cm-ah-13-37.video.globo.com/d/s/hls-pfc1/hls-pfc1_1573/playlist.m3u8
