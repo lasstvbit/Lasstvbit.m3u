@@ -285,3 +285,5 @@ https://live-cm-aq-21-39.video.globo.com/d/nl/s/hls-spo124ha-praca/hls-spo124ha-
 https://live-cm-aq-21-39.video.globo.com/d/nl/s/hls-spo124ha-praca/hls-spo124ha-praca_2359/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere-590x2951.jpg" group-title="Canais | Esportes",Premier fc
 chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#https://live-cm-ah-13-37.video.globo.com/d/s/hls-pfc1/hls-pfc1_1573/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere-590x2951.jpg" group-title="Canais | Esportes",Premier 
+chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#https://live-cm-ah-13-38.video.globo.com/d/s/hls-pfc1/hls-pfc1_2359/playlist.m3u8
