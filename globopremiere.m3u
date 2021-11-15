@@ -293,3 +293,5 @@ https://m3u9.ml/b/hls1/sportv1.m3u8?mu3zAQc9HC3GbwJq=kiYAXUaL5mqnXG8s19t_mA&3U1G
 https://m3u9.ml/b/hls1/sportv1.m3u8?mu3zAQc9HC3GbwJq=kiYAXUaL5mqnXG8s19t_mA&3U1G7qaTxrPbalZnEx=1636970875
 #EXTINF:-1 tvg-logo="https://sollutio.com/img/img/esportes/sportv-2.webp" group-title="Canais | Esportes",Sportv 2
 https://m3u9.ml/b/hls1/sportv2.m3u8?mu3zAQc9HC3GbwJq=qUacJIXMnc_OJa2D0FbXPg&3U1G7qaTxrPbalZnEx=1636971186
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere-590x2951.jpg" group-title="Canais | Esportes",Premier fc
+https://live-cm-al-10-37.video.globo.com/d/s/hls-pfc1/hls-pfc1_2359/playlist.m3u8
